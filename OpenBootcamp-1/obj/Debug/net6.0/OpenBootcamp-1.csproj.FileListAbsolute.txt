@@ -1,0 +1,15 @@
+D:\Repositorios\Logica\OpenBootcamp-1\OpenBootcamp-1\bin\Debug\net6.0\OpenBootcamp-1.exe
+D:\Repositorios\Logica\OpenBootcamp-1\OpenBootcamp-1\bin\Debug\net6.0\OpenBootcamp-1.deps.json
+D:\Repositorios\Logica\OpenBootcamp-1\OpenBootcamp-1\bin\Debug\net6.0\OpenBootcamp-1.runtimeconfig.json
+D:\Repositorios\Logica\OpenBootcamp-1\OpenBootcamp-1\bin\Debug\net6.0\OpenBootcamp-1.dll
+D:\Repositorios\Logica\OpenBootcamp-1\OpenBootcamp-1\bin\Debug\net6.0\OpenBootcamp-1.pdb
+D:\Repositorios\Logica\OpenBootcamp-1\OpenBootcamp-1\obj\Debug\net6.0\OpenBootcamp-1.csproj.AssemblyReference.cache
+D:\Repositorios\Logica\OpenBootcamp-1\OpenBootcamp-1\obj\Debug\net6.0\OpenBootcamp-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Logica\OpenBootcamp-1\OpenBootcamp-1\obj\Debug\net6.0\OpenBootcamp-1.AssemblyInfoInputs.cache
+D:\Repositorios\Logica\OpenBootcamp-1\OpenBootcamp-1\obj\Debug\net6.0\OpenBootcamp-1.AssemblyInfo.cs
+D:\Repositorios\Logica\OpenBootcamp-1\OpenBootcamp-1\obj\Debug\net6.0\OpenBootcamp-1.csproj.CoreCompileInputs.cache
+D:\Repositorios\Logica\OpenBootcamp-1\OpenBootcamp-1\obj\Debug\net6.0\OpenBootcamp-1.dll
+D:\Repositorios\Logica\OpenBootcamp-1\OpenBootcamp-1\obj\Debug\net6.0\refint\OpenBootcamp-1.dll
+D:\Repositorios\Logica\OpenBootcamp-1\OpenBootcamp-1\obj\Debug\net6.0\OpenBootcamp-1.pdb
+D:\Repositorios\Logica\OpenBootcamp-1\OpenBootcamp-1\obj\Debug\net6.0\OpenBootcamp-1.genruntimeconfig.cache
+D:\Repositorios\Logica\OpenBootcamp-1\OpenBootcamp-1\obj\Debug\net6.0\ref\OpenBootcamp-1.dll
