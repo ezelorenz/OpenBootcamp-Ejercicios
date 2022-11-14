@@ -8,7 +8,7 @@ Console.WriteLine(nombre);
 //Ejercicio 2
 
 DateTime FechaHoy = DateTime.Now;
-Console.WriteLine(FechaHoy.ToString());*/
+Console.WriteLine(FechaHoy.ToString());
 
 //----------------------SESIÓN 2---------------------
 
@@ -73,4 +73,18 @@ if (numero >= 10 && letra == 'a')
 if (numero >= 10 || letra == 'a')
 {
     condicion = true;
+}*/
+
+//------------SESION 3 --------
+Cliente nuevoCliente = new Cliente();
+
+public struct Cliente
+{
+    public string NombreCompleto;
+    public string Telefono;
+    public string Direccion;
+    public string Email;
+    public bool NuevoCliente;
 }
+
+
